@@ -1,0 +1,7 @@
+{
+    "accessibility.signals.chatRequestSent": {
+        "sound": "off",
+        "announcement": "off"
+    },
+    "livePreview.defaultPreviewPath": "/one.html"
+}
